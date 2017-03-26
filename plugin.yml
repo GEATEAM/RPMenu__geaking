@@ -1,0 +1,7 @@
+name: RPMenu
+main: geaking\RPMenu
+version: 0.0.1
+api: 2.0.0
+load: POSTWORLD
+author: GeaKing(vk.com/easymanfifa)
+website: vk.com/easymanfifa
